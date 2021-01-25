@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
   <link rel="icon" href="/favicon.ico">
 </head>
-<body>
+<body style="margin-left: 7px;">
 <?php
 class TableRows extends RecursiveIteratorIterator {
   function __construct($it) {
